@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta NAME="Author" Content="Andy Lester">
-        <title>ack -- better than grep, a power search tool for programmers</title>
+        <title>ack 1.94 -- better than grep, a source code search tool for programmers</title>
         <style type="text/css">
             <!--
             div.bill pre {
@@ -68,6 +68,7 @@ _   /|
             </blockquote>
             </li>
             <li>Install the <b>Macport</b>: <a href="http://trac.macports.org/browser/trunk/dports/perl/p5-app-ack/Portfile">http://trac.macports.org/browser/trunk/dports/perl/p5-app-ack/Portfile</a></li>
+            <li>Install the <b>Debian package</b>: <a href="http://packages.debian.org/search?keywords=ack-grep">ack-grep</a></li>
             <li>Install the <b>Ubuntu package</b>: ack-grep</li>
             <li>Install the <b>Fedora package</b>: ack</li>
             <li>Install the <b>Gentoo package</b>: sys-apps/ack</li>
